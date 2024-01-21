@@ -7,4 +7,4 @@ cd free-rndm
 
 
 
-python3 free-rndm
+python3 free-rndm.py
